@@ -1,0 +1,13 @@
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.exe
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.deps.json
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.runtimeconfig.json
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.runtimeconfig.dev.json
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.dll
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\bin\Debug\netcoreapp3.1\Aula_02.pdb
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.csprojAssemblyReference.cache
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.AssemblyInfo.cs
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.dll
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.pdb
+C:\xampp\htdocs\POOI\Aula_02\Aula_02\obj\Debug\netcoreapp3.1\Aula_02.genruntimeconfig.cache

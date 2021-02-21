@@ -5,7 +5,7 @@ namespace Aula
     class Program
     {
         static void Main(string[] args) {
-            string nomePessoa = "Emily";
+            /* string nomePessoa = "Emily";
             string dataNascimento = "19/02/1999";
             string rg = "0.000.000";
             char   sexo = 'F';
@@ -18,7 +18,7 @@ namespace Aula
             Console.Write("Informe sua cidade: ");
             cidade = Console.ReadLine();
 
-            Console.WriteLine("Cidade: " + cidade);
+            Console.WriteLine("Cidade: " + cidade); */
 
             /*
              * Para converter de String para Char, pode ser feito da seguinte forma:
@@ -27,6 +27,24 @@ namespace Aula
              * Para converter de String para Double:
              * salario = Double.Parse(Console.ReadLine());
              */
+        
+            /* bool ok = true;
+            Console.WriteLine("Ok = " + ok);
+
+            bool notOk = !ok;
+            Console.WriteLine("NotOk = " + notOk);
+
+            Console.ReadKey();
+
+            int y = 5;
+            int x = 5;
+
+            Console.WriteLine("X: " + x++);
+            Console.WriteLine("Y: " + y--);
+
+            Console.WriteLine("X: " + x);
+            Console.WriteLine("Y: " + y); */
+
         }        
     }
 }
