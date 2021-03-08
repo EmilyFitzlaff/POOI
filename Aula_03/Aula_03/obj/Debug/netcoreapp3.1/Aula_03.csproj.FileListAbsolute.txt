@@ -1,0 +1,4 @@
+C:\xampp\htdocs\POOI\Aula_03\Aula_03\obj\Debug\netcoreapp3.1\Aula_03.csprojAssemblyReference.cache
+C:\xampp\htdocs\POOI\Aula_03\Aula_03\obj\Debug\netcoreapp3.1\Aula_03.AssemblyInfoInputs.cache
+C:\xampp\htdocs\POOI\Aula_03\Aula_03\obj\Debug\netcoreapp3.1\Aula_03.AssemblyInfo.cs
+C:\xampp\htdocs\POOI\Aula_03\Aula_03\obj\Debug\netcoreapp3.1\Aula_03.csproj.CoreCompileInputs.cache
