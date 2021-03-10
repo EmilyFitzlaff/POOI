@@ -9,7 +9,7 @@ namespace Aula_03
             // exercício 01
             String nome, rg, dataNascimento;
             char sexo;
-            Boolean tipoContratacao;
+            int tipoContratacao;
             double salario;
 
             Console.WriteLine("Informe seu nome: ");
@@ -22,11 +22,15 @@ namespace Aula_03
             dataNascimento = Console.ReadLine();
 
             Console.WriteLine("Informe 'F' para Feminino ou 'M' para masculino: ");
-            sexo = Console.ReadLine();
+            sexo = Console.ReadKey().KeyChar;
 
-            Console.WriteLine("Tipo de Contratação: ")
+            Console.WriteLine("Tipo de Contratação: ");
+            tipoContratacao = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Informe seu salário: ");
+            salario = Convert.ToDouble(Console.ReadLine());
 
+            Console.ReadKey();
         }
     }
 }
